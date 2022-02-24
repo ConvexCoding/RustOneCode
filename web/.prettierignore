@@ -1,0 +1,6 @@
+build/
+asplib/
+.svelte-kit/
+package.json
+*.yaml
+.rsw.json
